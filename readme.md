@@ -1,6 +1,7 @@
 ## Resumen del Proyecto: Asistente Virtual de Inversiones Personalizadas
 
 **Alumno:** Alejandro Traversa Olazábal
+
 **Curso:** Inteligencia Artificial: Generación de Prompts
 
 Este proyecto tiene como objetivo desarrollar un asistente virtual basado en inteligencia artificial que ofrezca recomendaciones de inversión personalizadas, accesibles y adaptadas al contexto económico. La herramienta busca ayudar a personas sin conocimientos financieros a optimizar sus inversiones mediante:
