@@ -30,3 +30,17 @@ Es técnicamente viable, utilizando herramientas accesibles y prompts optimizado
 ### Impacto esperado:
 
 Una herramienta eficiente para ayudar a pequeños inversores, simplificar la toma de decisiones financieras y mejorar la educación económica en la población general.
+
+### Resultados:
+
+La implementación del asistente virtual de inversiones personalizadas brinda resultados significativos en términos de accesibilidad y precisión. Logra generar recomendaciones financieras adaptadas al perfil del usuario, considerando factores clave como el riesgo, la disponibilidad de capital y el horizonte temporal.
+
+La solución esperada se alcanza, ya que el asistente cumple con el objetivo de democratizar el acceso a asesoramiento financiero básico, ofreciendo una herramienta útil y efectiva para personas sin conocimientos financieros. Esto se verifica a través de pruebas que demuestran la capacidad del modelo para responder de manera adecuada a diversos escenarios de inversión.
+
+### Conclusiones:
+
+El proyecto logró los objetivos planteados al inicio. El desarrollo e implementación del asistente virtual demostró ser efectivo en la generación de recomendaciones personalizadas y en la presentación de estas de forma clara y comprensible.
+
+El uso de herramientas basadas en IA permitió crear una solución escalable y de bajo costo, cumpliendo con la premisa de accesibilidad. La metodología aplicada garantizó un enfoque iterativo y adaptable, mejorando la calidad del producto final. Este trabajo refuerza la posibilidad de utilizar tecnología de vanguardia para resolver problemas complejos y abre la puerta a futuros desarrollos en el ámbito del asesoramiento financiero automatizado.
+
+
